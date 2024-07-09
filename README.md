@@ -1,4 +1,4 @@
-# House Pricing Prediction with RandomForestRegressor
+# Housing Market Forecasting
 
 This repository contains Python scripts for predicting house prices using RandomForestRegressor. The project involves data preprocessing, model training, evaluation, and visualization of results.
 
