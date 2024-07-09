@@ -35,7 +35,7 @@ cd house-pricing-prediction
 2. Run the Python scripts:
     Predictor.ipynb
 
-3. Follow the prompts or check the script for options to modify data paths, model parameters, etc.
+3. Check the script for options to modify data paths, model parameters, etc.
 
 4. Files and Directory Structure
 - Predictor.ipynb: Main Python script for house price prediction.
