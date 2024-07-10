@@ -37,10 +37,14 @@ cd house-pricing-prediction
 
 3. Check the script for options to modify data paths, model parameters, etc.
 
-4. Files and Directory Structure
+4. **Visualization:** Open Tableau workbooks to explore interactive visualizations. [Link to Tableau Visualization](https://public.tableau.com/shared/N7RRZWYPN?:display_count=n&:origin=viz_share_link)
+
+5. Files and Directory Structure
 - Predictor.ipynb: Main Python script for house price prediction.
 - data/: Directory containing example dataset (data_set.csv) and other data files.
 - results/: Directory where prediction results and visualizations are saved.
 - README.md: This file providing an overview of the project.
+
+
 
 
